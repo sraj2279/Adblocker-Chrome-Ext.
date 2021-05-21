@@ -1,0 +1,22 @@
+{
+    "name": "Adblox",
+    "description": "My Adblocker",
+    "version": "1.0",
+    "manifest_version": 2,
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "<all_urls>"
+    ],
+    "background": {
+        "scripts": [
+            "BlockedSites.js",
+            "AdBlocker.js"
+        ]
+    },
+    "icons": {
+        "16": "icons/logo16.png",
+        "48": "icons/logo48.png",
+        "128": "icons/logo128.png"
+    }
+}
