@@ -1,6 +1,5 @@
 var blocked_sites = [
     "*://*.localhost/*",
-    "*://*.amazon-adsystem.com/*",
     "*://*.analytics.163.com/*",
     "*://*.mt.analytics.163.com/*",
     "*://*.crash.163.com/*",

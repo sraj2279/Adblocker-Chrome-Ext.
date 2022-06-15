@@ -18,8 +18,5 @@
         "16": "icons/logo16.png",
         "48": "icons/logo48.png",
         "128": "icons/logo128.png"
-    },
-    "browser_action": {
-        "default_popup": "popup.html"
     }
 }
